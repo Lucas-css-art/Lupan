@@ -46,9 +46,7 @@ nome = pergunte("Qual é o seu nome? ")
 mostre("Bem-vindo, " + nome)
 
 Salve como meu_programa.lp.
-
 Execute no terminal:
-
 lupan meu_programa.lp
 
 
@@ -91,7 +89,3 @@ Quer ajudar a melhorar o Lupan?
 Crie issues com sugestões e bugs
 Envie pull requests com novas ideias
 Compartilhe seus programas feitos em .lp 🎉
-
-
-
-"# Lupan"  
